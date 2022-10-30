@@ -1,9 +1,9 @@
 /**
  * Java program to print below patterns
- *          *
- *          **
- *          ***
- *          ****
+           *
+           **
+           ***
+           ****
 */
 
 package star_patterns;
