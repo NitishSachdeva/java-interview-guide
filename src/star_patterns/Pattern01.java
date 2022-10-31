@@ -1,5 +1,6 @@
 /**
  * Java program to print below patterns
+ * Pattern 1 - >
            *
            **
            ***
