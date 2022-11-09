@@ -8,4 +8,4 @@ The various modules we will be covering under this repository are :
 5. Arrays
 
 We will be covering all these modules in this repository.
-Currently this is in very initial stage but we will covering all modules one by one.
+Currently this is at very initial stage but we will covering all modules one by one.
