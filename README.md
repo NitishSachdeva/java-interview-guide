@@ -6,6 +6,7 @@ The various modules we will be covering under this repository are :
 3. Basic Java Programming Questions
 4. Strings
 5. Arrays
+6. Hashmaps
 
 We will be covering all these modules in this repository.
 Currently this is at very initial stage but we will covering all modules one by one.
