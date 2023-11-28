@@ -1,0 +1,101 @@
+// List out the interview questions asked on hashmap
+// Provide the detailed answers for the below questions which should be easily understandable by the interviewers
+//Provide it in a summary or paragraph format
+
+1. What is hashmap?
+    hashmap is a data structure which stores data in key value pairs.
+    HashMap is a data structure which stores data in key value pairs.
+    HashMap is a class which implements Map interface.
+    HashMap is not synchronized.
+    HashMap is not thread safe.
+    HashMap is fail fast.
+    HashMap allows null key.
+    HashMap allows null values.
+    HashMap allows duplicate keys.
+    HashMap allows duplicate values.
+    HashMap is unordered.
+
+2. How hashmap works internally?
+
+3. What is the difference between hashmap and hashtable?
+4. What is the difference between hashmap and hashset?
+5. What is the difference between hashmap and treemap?
+6. What is the difference between hashmap and linkedhashmap?
+7. What is the difference between hashmap and concurrent hashmap?
+
+8. Which data structure hashmap represents?
+    HashMap represents HashTable data structure. It's time complexity is O(1) considering it has key and values
+
+9. Which data structure is used to implement hashmap?
+    HashMap is implemented using array of linked list.
+
+10.Is hashmap thread safe?
+    No, hashmap is not thread safe. As it will try to update the data of same object.
+
+11.What will happen if you use hashmap in a multithreaded application?
+    If you use hashmap in a multithreaded application then multiple threads will try to update the data of same object at same time.
+
+12.How do you remove the mapping while Iterating over hashmap?
+    Iterator itr = map.entrySet( ).iterator?( );
+    while(itr.hasNext( )) {
+        Map.Entry entry = itr.next( );
+        if(entry.getKey( ).equals(“key”)) {
+            itr.remove( );
+            }
+        }
+
+13.What is the default size of hashmap?
+    default size of hashmap is 16.
+
+14.What is the default load factor of hashmap?
+    Load Factor is a number which controls the resizing of table that is inside hashmap. The resizing occurs when 75% of bucket is filled inside a table.
+     default load factor of hashmap is 0.75.
+
+15.What is the default capacity of hashmap?
+    Capacity defined how many entries hashmap can store.
+    default capacity of hashmap is 16.
+
+16.What is the default initial capacity of hashmap?
+    default initial capacity of hashmap is 16.
+
+17.What is the default threshold of hashmap?
+    default threshold of hashmap is 12.
+
+18.How many entries you can store in hashmap?
+    There is no limit on the number of entries you can store in hashmap.
+
+19.Can you store duplicate keys in hashmap?
+    no, you cannot store duplicate keys in hashmap.
+
+20.Can you store duplicate values in hashmap?
+    yes, you can store duplicate values in hashmap.
+
+21.What will happen if 2 different keys have same hashcode?
+    hashCollision will occur.
+
+22.What will happen if 2 different keys have same hashcode and equals method returns true?
+    hashCollision will occur and if equals method returns true then the value will be replaced with the new value.
+
+23.What will happen if 2 different keys have same hashcode and equals method returns false?
+    hashCollision will occur and if equals method returns false then the value will be stored in the same bucket.And the previous value will store the address of a
+    new node which contains the new value. It will linked list.
+
+24.What is concurrent hashmap?
+    ConcurrentHashMap is an enhancement of HashMap as we know that while dealing with Threads in our application HashMap is not a good choice because performance-wise
+    HashMap is not up to the mark.
+
+    ConcurrentHashMap is a thread-safe implementation of the Map interface in Java, which means multiple threads can access it simultaneously without any
+    synchronization issues. It’s part of the java.util.concurrent package and was introduced in Java 5 as a scalable alternative to the traditional HashMap class.
+
+    One of the key features of the ConcurrentHashMap is that it provides fine-grained locking, meaning that it locks only the portion of the map being modified,
+    rather than the entire map. This makes it highly scalable and efficient for concurrent operations. Additionally, the ConcurrentHashMap provides various methods
+    for atomic operations such as putIfAbsent(), replace(), and remove().
+
+    Performance of ConcurrentHashMap is better than Hashtable.
+
+25.What is difference between HashTable and ConcurrentHashMap?
+
+26.When does ConcurrentModificationException occur?
+
+27.What is the default concurrency level of concurrent hashmap?
+    Default concurrency level of concurrent hashmap is 16.
