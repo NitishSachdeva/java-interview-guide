@@ -1,0 +1,107 @@
+#################### Useful Git commands ####################
+
+
+• git init
+• git clone
+• git add
+• git commit
+• git status
+• git diff
+• git checkout
+• git reset
+• git log
+• git show
+• git tag
+• git push
+• git pull
+
+Branching:
+• git branch
+• git checkout -b
+• git merge
+• git rebase
+• git branch --set-upstream-to
+• git branch --unset-upstream
+
+Merging:
+• git merge
+• git rebase
+
+Stashing:
+• git stash
+• git stash pop
+• git stash list
+• git stash apply
+• git stash drop
+
+Remotes:
+• git remote
+• git remote add
+• git remote remove
+• git fetch
+• git pull
+• git push
+• git clone --mirror
+
+Configuration:
+• git config
+• git global config
+• git reset config
+
+
+
+
+===================================================================================
+
+1. When creating a new repository
+ --------------------- or create a new repository on the command line
+echo "# playwright-typescript-framework" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin <url>
+git push -u origin main
+
+===================================================================================
+2. When pushing current repo to remote
+-------- or push an existing repository from the command line
+git remote add origin <url>
+git branch -M main
+git push -u origin main
+
+
+===================================================================================
+
+3.  Making new branch and pushing to remote 
+git checkout master
+git pull origin master
+git checkout -b branchname
+
+add your changes to staging and commit 
+git add .
+git commit -m "message"
+
+once done push your changes to remote repo
+git push origin branchname
+
+
+---- to switch from one branch to another -----
+	git switch feature/nitish  
+	
+
+===================================================================================
+     
+   
+4. Remove git tracking from local repo
+
+$ rm -fr .git
+
+
+5. To change or check username and email configured with git
+
+$ git config user.name "name"
+
+$ git config user.email "email"
+
+
