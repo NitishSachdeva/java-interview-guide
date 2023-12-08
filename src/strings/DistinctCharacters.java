@@ -4,7 +4,7 @@
 
 package strings;
 
-public class String_Program_01 {
+public class DistinctCharacters {
     public static void main(String[] args) {
         String str = "Geeks for geeks";
 
