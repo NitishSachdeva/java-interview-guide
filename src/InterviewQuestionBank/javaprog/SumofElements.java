@@ -2,7 +2,7 @@ package InterviewQuestionBank.javaprog;
 
 public class SumofElements {
 
-	//Create a Method which accepts Array and returns sum of all the elements in array 
+	//Create a Method which accepts Array and returns sum of all the elements in java_guide.array
 	//Print 5 Multiplication table without using Multiply operator
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -38,7 +38,7 @@ public class SumofElements {
 	{
 		
 		int sum =0;
-		//extract every value of array and sum each value with other
+		//extract every value of java_guide.array and sum each value with other
 		for(int i=0;i<a.length;i++)
 		{
 			//System.out.println(a[i]);

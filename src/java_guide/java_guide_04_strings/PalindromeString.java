@@ -1,7 +1,7 @@
 /**
  * Reverse a given string, also verify if it's a palindrome
  */
-package strings;
+package java_guide.java_guide_04_strings;
 
 
 public class PalindromeString {

@@ -1,5 +1,5 @@
 /**
- * Search for an element in a given array
+ * Search for an element in a given java_guide.array
  */
 
 

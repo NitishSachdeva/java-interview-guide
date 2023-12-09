@@ -7,7 +7,7 @@
                           7 8 9 10
  */
 
-package number_pattern;
+package java_guide.java_guide_02_number_pattern;
 
 public class NumberPattern07 {
     public static void main(String[] args) {

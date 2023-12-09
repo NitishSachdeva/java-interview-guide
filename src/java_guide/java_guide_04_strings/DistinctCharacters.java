@@ -2,7 +2,7 @@
  * Print all distinct characters of a string in order
  */
 
-package strings;
+package java_guide.java_guide_04_strings;
 
 public class DistinctCharacters {
     public static void main(String[] args) {

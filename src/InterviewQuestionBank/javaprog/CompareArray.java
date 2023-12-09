@@ -3,7 +3,7 @@ package InterviewQuestionBank.javaprog;
 import java.util.ArrayList;
 
 public class CompareArray {
-	//compare same indexes of 2 different arrays and create another array for matching values
+	//compare same indexes of 2 different arrays and create another java_guide.array for matching values
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a[]  = { 1,4,5,7};
@@ -15,7 +15,7 @@ public class CompareArray {
 		{
 			if(a[i] ==b[i])
 			{
-				//code to create another array
+				//code to create another java_guide.array
 				al.add(a[i]);
 			}
 		}

@@ -1,11 +1,9 @@
 /**
- * For a given strings
+ * For a given java_guide.strings
  * s1 ="Abcdef" , remove the vowels with '*'
  * s2="Abcdef" , remove the consonants with '*'
  */
-package strings;
-
-import java.util.Locale;
+package java_guide.java_guide_04_strings;
 
 public class String_Vowels_Consonants_Removal {
     public static void main(String[] args) {

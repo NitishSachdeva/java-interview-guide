@@ -1,5 +1,5 @@
 //what is binary search?
-//It is an optimized way of searching for an element but this only works in a sorted array. If array is not sorted then we have to sort it first and then apply binary search.
+//It is an optimized way of searching for an element but this only works in a sorted java_guide.array. If java_guide.array is not sorted then we have to sort it first and then apply binary search.
 //It is better than the linear search as it has a time complexity of O(logn) whereas linear search has O(n) time complexity.
 
 package data_structures.algos;
@@ -12,7 +12,7 @@ public class BinarySearch_BFS {
         int left = 0;
         int right = arr.length - 1;
         int middle;
-        //if left exceeds right then the element is not present in the array and return -1
+        //if left exceeds right then the element is not present in the java_guide.array and return -1
         while (left <= right) {
             middle = (left + right) / 2;
             if (arr[middle] == target)

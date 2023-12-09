@@ -1,9 +1,9 @@
 /**
- * Search for an element in a given array
+ * Search for an element in a given java_guide.array
  */
 
 
-package array;
+package java_guide.java_guide_05_array;
 
 public class LinearSearch {
     public static void main(String[] args) {

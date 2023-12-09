@@ -27,7 +27,7 @@
     HashMap represents HashTable data structure. It's time complexity is O(1) considering it has key and values
 
 9. Which data structure is used to implement hashmap?
-    HashMap is implemented using array of linked list.
+    HashMap is implemented using java_guide.java_guide_05_array of linked list.
 
 10.Is hashmap thread safe?
     No, hashmap is not thread safe. As it will try to update the data of same object.

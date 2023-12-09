@@ -1,5 +1,5 @@
 /**
- * Sort the elements in a given array
+ * Sort the elements in a given java_guide.array
  */
 package data_structures.algos;
 
@@ -23,7 +23,7 @@ public class BubbleSort {
 
         }
 
-        // Print the sorted array
+        // Print the sorted java_guide.array
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + " ");
         }

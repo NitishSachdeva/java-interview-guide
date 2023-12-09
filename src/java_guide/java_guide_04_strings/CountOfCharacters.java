@@ -2,7 +2,7 @@
  * Count the occurrences of characters in a string
  */
 
-package strings;
+package java_guide.java_guide_04_strings;
 
 public class CountOfCharacters {
     public static void main(String[] args) {

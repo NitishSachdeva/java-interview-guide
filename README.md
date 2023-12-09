@@ -5,9 +5,10 @@ The following modules we will be covering under this repository are :
 1. Start Patterns
 2. Number Patterns
 3. Basic Java Programming Questions
-4. strings
-5. Arrays
+4. Strings Programs
+5. Array Programs
 6. Hashmaps
+7. Data Structures
 
 We will be covering all these modules in this repository.
 Currently, this is at very initial stage, but we will cover all modules one by one.

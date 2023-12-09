@@ -1,4 +1,4 @@
-//Array Dequeue is a queue that is implemented using a single array.
+//Array Dequeue is a queue that is implemented using a single java_guide.array.
 //You can insert and remove elements from both sides of the queue.
 
 package data_structures.queues;

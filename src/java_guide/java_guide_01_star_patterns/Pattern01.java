@@ -1,19 +1,19 @@
 /**
  * Java program to print below patterns
  * Pattern 1 - >
-           1
-           2 2
-           3 3 3
-           4 4  4 4
+           *
+           **
+           ***
+           ****
 */
 
-package number_pattern;
+package java_guide.java_guide_01_star_patterns;
 
-public class NumberPattern03 {
+public class Pattern01 {
     public static void main(String[] args) {
         for (int i = 1; i <= 4; i++) {
             for (int j = 1; j <= i; j++) {
-                System.out.print(i + " ");
+                System.out.print("*");
             }
             System.out.println();
         }

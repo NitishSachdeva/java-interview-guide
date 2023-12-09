@@ -1,7 +1,7 @@
 /**
  * Reverse a given number, also verify if it's a palindrome or not
  */
-package java_basic_programs;
+package java_guide.java_guide_03_java_basic_programs;
 
 public class ReverseNumber {
     public static void main(String[] args) {

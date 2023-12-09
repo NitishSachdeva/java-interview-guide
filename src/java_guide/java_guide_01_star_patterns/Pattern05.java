@@ -8,7 +8,7 @@
 
  * */
 
-package star_patterns;
+package java_guide.java_guide_01_star_patterns;
 
 public class Pattern05 {
     public static void main(String[] args) {

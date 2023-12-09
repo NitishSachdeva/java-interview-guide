@@ -1,7 +1,7 @@
 /**
- * Sort the elements in a given array
+ * Sort the elements in a given java_guide.array
  */
-package array;
+package java_guide.java_guide_05_array;
 
 public class DescendingOrderArray {
     public static void main(String[] args) {

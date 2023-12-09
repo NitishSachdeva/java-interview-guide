@@ -1,4 +1,4 @@
-package strings;
+package java_guide.java_guide_04_strings;
 
 import java.util.Arrays;
 

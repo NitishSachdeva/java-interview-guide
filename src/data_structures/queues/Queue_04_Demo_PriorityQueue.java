@@ -1,4 +1,4 @@
-//Priority Queue is a queue that is implemented using a single array.
+//Priority Queue is a queue that is implemented using a single java_guide.array.
 //Insertion and removal of elements take O(log n) time.
 //Elements are ordered based on their priority.
 //Elements with higher priority are removed first.

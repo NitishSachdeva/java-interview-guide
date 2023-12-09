@@ -1,9 +1,9 @@
 /**
- * Search for a String in a given array
+ * Search for a String in a given java_guide.array
  */
 
 
-package strings;
+package java_guide.java_guide_04_strings;
 
 public class LinearSearchString {
     public static void main(String[] args) {
