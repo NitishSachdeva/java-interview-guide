@@ -4,33 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="useful docs">
-      <change afterPath="$PROJECT_DIR$/src/array/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/DescendingOrderArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Remove_Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/algos/BinarySearch_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/algos/BinarySearch_DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/algos/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/algos/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_01_Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_02_Search_Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_03_Add_Node_Beginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_04_Add_Node_At_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_05_Deletion_At_End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_06_Deletion_At_Beginning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_07_Deletion_At_Index.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_08_Reverse_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic_programs/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic_programs/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_basic_programs/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/DistinctCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/LinearSearchString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/String_Vowels_Consonants_Removal.java" afterDir="false" />
+    <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="linkedlist, strings, arrays programs">
+      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_01_Demo_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_02_Demo_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_03_Demo_ArrayDequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_03_Demo_Reverse_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_04_Demo_PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_01_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_02_Reverse_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_03_Insert_At_Index_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_04_Minimum_Value_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_05_Sort_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_06_Balanced_Parentheses_Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strings/String_Program_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/CountOfCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,20 +65,20 @@
       <recent name="C:\Users\nitsachdeva\IdeaProjects\java-interview-guide\src\InterviewQuestionBank\javaprog" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data_structures.queues" />
+      <recent name="data_structures.stacks" />
       <recent name="data_structures.linked_list" />
       <recent name="data_structures.algos" />
       <recent name="array" />
-      <recent name="strings" />
-      <recent name="number_pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountOfCharacters">
-    <configuration name="CountOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.CountOfCharacters" />
+  <component name="RunManager" selected="Application.Queue_04_Demo_PriorityQueue">
+    <configuration name="Queue_01_Demo_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_01_Demo_Array" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="data_structures.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linked_List_04_Deletion_At_End" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.linked_list.Linked_List_04_Deletion_At_End" />
+    <configuration name="Queue_02_Demo_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_02_Demo_Stack" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.linked_list.*" />
+          <option name="PATTERN" value="data_structures.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linked_List_05_Deletion_At_Beginning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.linked_list.Linked_List_05_Deletion_At_Beginning" />
+    <configuration name="Queue_03_Demo_ArrayDequeue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_03_Demo_ArrayDequeue" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.linked_list.*" />
+          <option name="PATTERN" value="data_structures.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linked_List_07_Deletion_At_Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.linked_list.Linked_List_07_Deletion_At_Index" />
+    <configuration name="Queue_03_Demo_Reverse_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_03_Demo_Reverse_Queue" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.linked_list.*" />
+          <option name="PATTERN" value="data_structures.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linked_List_08_Reverse_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.linked_list.Linked_List_08_Reverse_List" />
+    <configuration name="Queue_04_Demo_PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_04_Demo_PriorityQueue" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.linked_list.*" />
+          <option name="PATTERN" value="data_structures.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountOfCharacters" />
-        <item itemvalue="Application.Linked_List_08_Reverse_List" />
-        <item itemvalue="Application.Linked_List_07_Deletion_At_Index" />
-        <item itemvalue="Application.Linked_List_05_Deletion_At_Beginning" />
-        <item itemvalue="Application.Linked_List_04_Deletion_At_End" />
+        <item itemvalue="Application.Queue_04_Demo_PriorityQueue" />
+        <item itemvalue="Application.Queue_03_Demo_Reverse_Queue" />
+        <item itemvalue="Application.Queue_03_Demo_ArrayDequeue" />
+        <item itemvalue="Application.Queue_02_Demo_Stack" />
+        <item itemvalue="Application.Queue_01_Demo_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +165,8 @@
       <workItem from="1701932598778" duration="787000" />
       <workItem from="1701956006209" duration="335000" />
       <workItem from="1702027933194" duration="13434000" />
-      <workItem from="1702058937231" duration="4119000" />
+      <workItem from="1702058937231" duration="11202000" />
+      <workItem from="1702112517228" duration="3811000" />
     </task>
     <task id="LOCAL-00001" summary="number pattern">
       <created>1701371720114</created>
@@ -202,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701956313489</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="linkedlist, strings, arrays programs">
+      <created>1702063190124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702063190124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +216,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="number pattern" />
     <MESSAGE value="useful docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="useful docs" />
+    <MESSAGE value="linkedlist, strings, arrays programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedlist, strings, arrays programs" />
   </component>
 </project>
