@@ -11,12 +11,12 @@ public class BubbleSort {
 
         for (int i = 0; i < arr.length; i++) {
             // Last i elements are already in place
-            for (int j = 1; j < (arr.length - i); j++) {
+            for (int j = i + 1; j < arr.length; j++) {
                 // Swap if the element is found greater than the next element
-                if (arr[j - 1] > arr[j]) {
+                if (arr[i] > arr[j]) {
                     // Swap elements
-                    temp = arr[j - 1];
-                    arr[j - 1] = arr[j];
+                    temp = arr[i];
+                    arr[i] = arr[j];
                     arr[j] = temp;
                 }
             }

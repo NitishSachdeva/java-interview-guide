@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="linkedlist, strings, arrays programs">
-      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_01_Demo_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_02_Demo_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_03_Demo_ArrayDequeue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_03_Demo_Reverse_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/queues/Queue_04_Demo_PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_01_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_02_Reverse_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_03_Insert_At_Index_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_04_Minimum_Value_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_05_Sort_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_structures/stacks/Stack_06_Balanced_Parentheses_Stack.java" afterDir="false" />
+    <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="file restructuring">
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/FactorialRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/SwapNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DuplicateCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/ExtractFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/SplitString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/UniqueList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/CompareTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MaxDiffAdjacentArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MaxNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MinNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/SumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/CountOfCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/CountOfCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/Remove_Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/Remove_Duplicates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +73,20 @@
       <recent name="C:\Users\nitsachdeva\IdeaProjects\java-interview-guide\src\InterviewQuestionBank\javaprog" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_guide.java_guide_05_array" />
+      <recent name="java_guide.java_guide_03_java_basic_programs" />
+      <recent name="java_guide.java_guide_04_strings" />
       <recent name="data_structures.queues" />
       <recent name="data_structures.stacks" />
-      <recent name="data_structures.linked_list" />
-      <recent name="data_structures.algos" />
-      <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Queue_04_Demo_PriorityQueue">
-    <configuration name="Queue_01_Demo_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_01_Demo_Array" />
+  <component name="RunManager" selected="Application.DuplicateCharacters">
+    <configuration name="CountOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.CountOfCharacters" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.queues.*" />
+          <option name="PATTERN" value="java_guide.java_guide_04_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_02_Demo_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_02_Demo_Stack" />
+    <configuration name="DuplicateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.DuplicateCharacters" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.queues.*" />
+          <option name="PATTERN" value="java_guide.java_guide_04_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_03_Demo_ArrayDequeue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_03_Demo_ArrayDequeue" />
+    <configuration name="ExtractFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.ExtractFromString" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.queues.*" />
+          <option name="PATTERN" value="java_guide.java_guide_04_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_03_Demo_Reverse_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_03_Demo_Reverse_Queue" />
+    <configuration name="SplitString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.SplitString" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.queues.*" />
+          <option name="PATTERN" value="java_guide.java_guide_04_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_04_Demo_PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_04_Demo_PriorityQueue" />
+    <configuration name="UniqueList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.UniqueList" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.queues.*" />
+          <option name="PATTERN" value="java_guide.java_guide_04_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Queue_04_Demo_PriorityQueue" />
-        <item itemvalue="Application.Queue_03_Demo_Reverse_Queue" />
-        <item itemvalue="Application.Queue_03_Demo_ArrayDequeue" />
-        <item itemvalue="Application.Queue_02_Demo_Stack" />
-        <item itemvalue="Application.Queue_01_Demo_Array" />
+        <item itemvalue="Application.DuplicateCharacters" />
+        <item itemvalue="Application.SplitString" />
+        <item itemvalue="Application.CountOfCharacters" />
+        <item itemvalue="Application.UniqueList" />
+        <item itemvalue="Application.ExtractFromString" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +174,7 @@
       <workItem from="1701956006209" duration="335000" />
       <workItem from="1702027933194" duration="13434000" />
       <workItem from="1702058937231" duration="11202000" />
-      <workItem from="1702112517228" duration="3811000" />
+      <workItem from="1702112517228" duration="11389000" />
     </task>
     <task id="LOCAL-00001" summary="number pattern">
       <created>1701371720114</created>
@@ -196,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702063190124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="queues and stacks implementations">
+      <created>1702116430681</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702116430681</updated>
+    </task>
+    <task id="LOCAL-00006" summary="file restructuring">
+      <created>1702116765984</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702116765984</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +239,8 @@
     <MESSAGE value="number pattern" />
     <MESSAGE value="useful docs" />
     <MESSAGE value="linkedlist, strings, arrays programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkedlist, strings, arrays programs" />
+    <MESSAGE value="queues and stacks implementations" />
+    <MESSAGE value="file restructuring" />
+    <option name="LAST_COMMIT_MESSAGE" value="file restructuring" />
   </component>
 </project>
