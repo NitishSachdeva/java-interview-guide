@@ -15,6 +15,7 @@ public class CompareTwoArrays {
                 list.add(a[i]);
             }
         }
+        System.out.println("array list items with same value " + list);
         // to convert list into array
         Object[] c = list.toArray();
         for (Object i : c)

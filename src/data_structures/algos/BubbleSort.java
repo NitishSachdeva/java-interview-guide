@@ -20,7 +20,6 @@ public class BubbleSort {
                     arr[j] = temp;
                 }
             }
-
         }
 
         // Print the sorted java_guide.array

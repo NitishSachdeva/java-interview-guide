@@ -10,7 +10,7 @@ public class MaxNumberArray {
 
         int[] arr = {2, 4, 5, 11};
         int max1D = arr[0];
-        ;
+
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > max1D) {
                 max1D = arr[i];

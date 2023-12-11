@@ -7,7 +7,7 @@ package java_guide.java_guide_04_strings;
 public class DistinctCharacters {
     public static void main(String[] args) {
         String str = "Geeks for geeks";
-
+        str = str.toLowerCase();
         for (int i = 0; i < str.length(); i++) {
             int flag = 0;
             for (int j = 0; j < str.length(); j++) {

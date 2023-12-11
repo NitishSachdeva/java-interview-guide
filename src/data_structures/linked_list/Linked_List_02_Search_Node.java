@@ -37,7 +37,7 @@ public class Linked_List_02_Search_Node {
 
     public void printLinkedList(Node headNode) {
         Node current = headNode;
-        while (current != null) {
+        while  (current != null) {
             System.out.print(current.val + " -->");
             current = current.next;
         }
