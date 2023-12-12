@@ -3,6 +3,7 @@
 package java_guide.java_guide_04_strings;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class DuplicateCharacters {
@@ -11,7 +12,8 @@ public class DuplicateCharacters {
         // Creating a HashMap containing char
         // as a key and occurrences as a value
         Map<Character, Integer> map
-                = new HashMap<Character, Integer>();
+                = new LinkedHashMap<>();
+        //HashMap<Character, Integer>();
 
         // Converting given string into
         // a char array
