@@ -7,7 +7,7 @@ package java_guide.java_guide_04_strings;
 public class DistinctCharacters {
     public static void main(String[] args) {
         String str = "Geeks for geeks";
-
+        str = str.toLowerCase();
         for (int i = 0; i < str.length(); i++) {
             int flag = 0;
             for (int j = 0; j < str.length(); j++) {
@@ -17,8 +17,11 @@ public class DistinctCharacters {
                     break;
                 }
             }
-            if (flag == 0)
+            if (flag == 0) {
                 System.out.print(str.charAt(i));
+                //print the first character from the unique string
+                break;
+            }
         }
     }
 }

@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="file restructuring">
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/FactorialRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci_Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/SwapNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DuplicateCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/ExtractFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/SplitString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/UniqueList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/CompareTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MaxDiffAdjacentArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MaxNumberArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MinNumberArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/PalindromeStringRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/CountOfCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/CountOfCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/Remove_Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/Remove_Duplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DistinctCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DistinctCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DuplicateCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DuplicateCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,9 +57,9 @@
       <recent name="C:\Users\nitsachdeva\IdeaProjects\java-interview-guide\src\InterviewQuestionBank\javaprog" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_guide.java_guide_04_strings" />
       <recent name="java_guide.java_guide_05_array" />
       <recent name="java_guide.java_guide_03_java_basic_programs" />
-      <recent name="java_guide.java_guide_04_strings" />
       <recent name="data_structures.queues" />
       <recent name="data_structures.stacks" />
     </key>
@@ -94,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.DuplicateCharacters" />
+    <configuration name="DistinctCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.DistinctCharacters" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtractFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.ExtractFromString" />
+    <configuration name="DuplicateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.DuplicateCharacters" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
@@ -149,10 +133,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DuplicateCharacters" />
+        <item itemvalue="Application.DistinctCharacters" />
         <item itemvalue="Application.SplitString" />
         <item itemvalue="Application.CountOfCharacters" />
         <item itemvalue="Application.UniqueList" />
-        <item itemvalue="Application.ExtractFromString" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +158,9 @@
       <workItem from="1701956006209" duration="335000" />
       <workItem from="1702027933194" duration="13434000" />
       <workItem from="1702058937231" duration="11202000" />
-      <workItem from="1702112517228" duration="11389000" />
+      <workItem from="1702112517228" duration="12107000" />
+      <workItem from="1702364814270" duration="13000" />
+      <workItem from="1702365559178" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="number pattern">
       <created>1701371720114</created>
@@ -218,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702116765984</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="file restructuring">
+      <created>1702124274068</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702124274068</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
