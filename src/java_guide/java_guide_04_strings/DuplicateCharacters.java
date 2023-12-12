@@ -44,7 +44,7 @@ public class DuplicateCharacters {
         for (Map.Entry<Character, Integer> entry :
                 map.entrySet()) {
 
-            if (entry.getValue() > 1) {
+            if (entry.getValue() > 1 && entry.getKey() != ' ') {
                 System.out.println(entry.getKey()
                         + " : "
                         + entry.getValue());
@@ -65,7 +65,7 @@ public class DuplicateCharacters {
     // Driver Code
     public static void main(String args[]) {
         // Given String str
-        String str = "geeksforgeeks";
+        String str = "geeks for geeks";
 
         // Function Call
         countDuplicateCharacters(str);

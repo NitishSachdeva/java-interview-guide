@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="">
+    <list default="true" id="bffb8280-59cc-4c41-a16e-6b7e2703da2c" name="Changes" comment="file restructuring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structures/algos/BinarySearch_DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structures/algos/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structures/algos/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_02_Search_Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structures/linked_list/Linked_List_02_Search_Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashmap/HashMap_Interview_Question" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashmap/HashMap_Interview_Question" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_03_java_basic_programs/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DistinctCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DistinctCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/UniqueList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/UniqueList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/CompareTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/CompareTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/DescendingOrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/DescendingOrderArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MaxNumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/MaxNumberArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/Remove_Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_05_array/Remove_Duplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DuplicateCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_guide/java_guide_04_strings/DuplicateCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +97,7 @@
       <recent name="data_structures.stacks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DistinctCharacters">
+  <component name="RunManager" selected="Application.DuplicateCharacters">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structures.algos.BubbleSort" />
       <module name="java-interview-guide" />
@@ -135,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue_04_Demo_PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structures.queues.Queue_04_Demo_PriorityQueue" />
+    <configuration name="DuplicateCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_guide.java_guide_04_strings.DuplicateCharacters" />
       <module name="java-interview-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structures.queues.*" />
+          <option name="PATTERN" value="java_guide.java_guide_04_strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateCharacters" />
         <item itemvalue="Application.DistinctCharacters" />
         <item itemvalue="Application.UniqueList" />
         <item itemvalue="Application.java_guide.java_guide_05_array.BubbleSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Queue_04_Demo_PriorityQueue" />
       </list>
     </recent_temporary>
   </component>
